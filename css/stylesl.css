@@ -1,0 +1,18 @@
+#hero{
+    background: purple;
+    color: white;
+    padding: 20px;
+    border: 5px solid green;
+    border-radius: 20px;
+    text-align: center;
+    justify-items: center;
+}
+#hero h1{
+    color: yellow;
+    font-size: 42px;
+    font-weight: bold;
+}
+#hero p{
+    width: 500px;
+    text-align: center;
+}
